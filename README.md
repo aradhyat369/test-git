@@ -6,6 +6,7 @@
 ##### Fifth Heading
 ###### Sixth Heading
 # Paragraphs:
-  Any text written 
-  This is another paragraph
+  Any text written
+  
+ This is another paragraph.*This is Italic* .**It part IS bold.**
   
